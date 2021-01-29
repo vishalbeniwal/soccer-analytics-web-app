@@ -17,13 +17,13 @@ The Soccer Analytics web is developed to introduce the world of European footbal
 
 The app provides the following as functionality to the user:
 
-• A user can register themselves using Login/Register functionality of the app.
-• User can view the upcoming football matches from one of the major European leagues i.e. English Premier League.
-• User can view host team’s overall win ratio and head 2 head (against guest team) win ratio. Host team is a team which is playing in their home stadium and hosting another team for the match.
-• User can access the dashboard created on AWS Quick Sight to gain analytical information about a particular team. Functionality is provided to the user for selecting the team they want. The dashboard is analysing last 10 years of data.
-• Based on the applied machine learning model on betting odds data from the one of the biggest betting sites, bet365, User will be able to see number of bets placed for a team and predicted loss or profit associated with that team. This will help them to make better betting decisions on third party sites, like bet365.
-• Provision to vote is provided for the user. They can use this functionality to give vote to a team for a particular match based on their analysis and own preferences. This vote will be saved in database for any future analysis.
-• Using the user profile, a user can change their name/nickname and password.
+1. A user can register themselves using Login/Register functionality of the app.
+2. User can view the upcoming football matches from one of the major European leagues i.e. English Premier League.
+3. User can view host team’s overall win ratio and head 2 head (against guest team) win ratio. Host team is a team which is playing in their home stadium and hosting another team for the match.
+4. User can access the dashboard created on AWS Quick Sight to gain analytical information about a particular team. Functionality is provided to the user for selecting the team they want. The dashboard is analysing last 10 years of data.
+5. Based on the applied machine learning model on betting odds data from the one of the biggest betting sites, bet365, User will be able to see number of bets placed for a team and predicted loss or profit associated with that team. This will help them to make better betting decisions on third party sites, like bet365.
+6. Provision to vote is provided for the user. They can use this functionality to give vote to a team for a particular match based on their analysis and own preferences. This vote will be saved in database for any future analysis.
+7. Using the user profile, a user can change their name/nickname and password.
 
 A complete walkthrough to the project implementation is given in the "soccer-analytics-report.pdf" file 
 
