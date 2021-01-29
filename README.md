@@ -1,4 +1,4 @@
-# soccer-analytics-web-app
+# Soccer Analytics Web App
 
 Soccer analytics web app was developed by utilising a number of AWS web cloud services including AWS Cognito, AWS Sage maker, AWS S3, AWS DynamoDB, AWS Route 53, AWS QuickSight, AWS services SDK, AWS Elastic Beanstalk and AWS EC2.
 
