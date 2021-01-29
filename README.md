@@ -11,7 +11,7 @@ The purpose of this project was to develop an analytical web application on Euro
 4. To help a new user to know about European football world and team history.
 
 
-FUNCTIONALITY OF THE APP
+FUNCTIONALITIES OF THE APP
 
 The Soccer Analytics web is developed to introduce the world of European football in an analytical way to learn about a football team and their history, match fixtures, profit/loss in betting world, and user’s predictions.
 
@@ -22,7 +22,7 @@ The app provides the following as functionality to the user:
 3. User can view host team’s overall win ratio and head 2 head (against guest team) win ratio. Host team is a team which is playing in their home stadium and hosting another team for the match.
 4. User can access the dashboard created on AWS Quick Sight to gain analytical information about a particular team. Functionality is provided to the user for selecting the team they want. The dashboard is analysing last 10 years of data.
 5. Based on the applied machine learning model on betting odds data from the one of the biggest betting sites, bet365, User will be able to see number of bets placed for a team and predicted loss or profit associated with that team. This will help them to make better betting decisions on third party sites, like bet365.
-6. Provision to vote is provided for the user. They can use this functionality to give vote to a team for a particular match based on their analysis and own preferences. This vote will be saved in database for any future analysis.
+6. Provision to vote. User can use this functionality to give vote to a team that they think will have more chances to win in a particular match based on their analysis and own preferences. This vote will be saved in database for any future analysis. The vote count will be saved in the session so that other users can know more about other user's perspective.
 7. Using the user profile, a user can change their name/nickname and password.
 
 A complete walkthrough to the project implementation is given in the "soccer-analytics-report.pdf" file 
